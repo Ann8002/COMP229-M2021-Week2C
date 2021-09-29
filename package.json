@@ -1,0 +1,16 @@
+{
+  "name": "comp229-m2021-week2c",
+  "version": "0.0.1",
+  "description": "Demo Project for COMP229 - M2021 - Week 2C",
+  "main": "index.js",
+  "author": "Sindhu Binil",
+  "license": "MIT",
+  "scripts": 
+  {
+    "start": "node index.js"
+  },
+  "devDependencies": 
+  {
+    "@types/node": "^16.10.2"
+  }
+}
